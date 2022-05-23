@@ -1,0 +1,10 @@
+C:\Users\admin\.virtualenvs\visual_env-Jgcwyc_S
+ALTER TABLE record_info MODIFY COLUMN `record` enum('安打','三振','保送','接殺','雙殺','三殺','阻殺','刺殺','全壘打','界外') not null;
+
+C:\Users\admin\AppData\Roaming\Python\Python310\Scripts
+
+qsLZ1IUioqrml59LH94PciJjIxxPVfw4bXMM1WgEffS
+
+
+"LOAD DATA local INFILE 'C:/Users/admin/Desktop/name.csv' IGNORE INTO TABLE name_info\
+FIELDS TERMINATED BY ',' ENCLOSED BY '\"' LINES TERMINATED BY '\\n' ignore 1 lines (username);")
